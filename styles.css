@@ -1,0 +1,17 @@
+.contenedor {
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.circulo {
+    width: 150px;
+    height: 150px;
+    background-color: #000000;
+    border-radius: 100%;
+    margin: 2em;
+}
+
+.formulario {
+    width: 20%;
+}
